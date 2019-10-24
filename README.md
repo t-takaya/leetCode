@@ -7,6 +7,7 @@
 - [Flipping an Image](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FlippingAnImage.scala)
 - [Unique Number of Occurrences](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueNumberOfOccurrences.scala)
 - [Sort Array By Parity](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SortArrayByParity.scala)
+- [Hamming Distance](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HammingDistance.scala)
 
 ## Medium
 
