@@ -1,7 +1,5 @@
 package easy
 
-
-
 // Result
 // https://leetcode.com/submissions/detail/273958127/
 object DayOfTheWeek {
