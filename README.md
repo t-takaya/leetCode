@@ -10,6 +10,7 @@
 - [Hamming Distance](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HammingDistance.scala)
 - [To Lower Case](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ToLowerCase.scala)
 - [Unique Email Addresses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueEmailAddresses.scala)
+- [Keyboard Row](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/KeyboardRow.scala)
 
 ## Medium
 
