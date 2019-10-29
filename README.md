@@ -13,7 +13,8 @@
 - [Day of the Week](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DayOfTheWeek.scala)
 - [Keyboard Row](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/KeyboardRow.scala)
 - [Unique Morse Code Words](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueMorseCodeWords.scala)
-- [FizzBuzz](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FizzBuzz.scala)
+- [Fizz Buzz](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FizzBuzz.scala)
+- [Number Complement](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberComplement.scala)
 
 ## Medium
 
