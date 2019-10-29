@@ -15,6 +15,7 @@
 - [Unique Morse Code Words](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueMorseCodeWords.scala)
 - [Fizz Buzz](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FizzBuzz.scala)
 - [Number Complement](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberComplement.scala)
+- [Design HashMap](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DesignHashMap.scala)
 
 ## Medium
 
