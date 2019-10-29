@@ -12,6 +12,7 @@
 - [Unique Email Addresses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueEmailAddresses.scala)
 - [Day of the Week](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DayOfTheWeek.scala)
 - [Keyboard Row](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/KeyboardRow.scala)
+- [Unique Morse Code Words](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/UniqueMorseCodeWords.scala)
 
 ## Medium
 
