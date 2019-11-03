@@ -20,6 +20,7 @@
 - [Add Digits](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/AddDigits.scala)
 - [Complement of Base 10 Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ComplementOfBase10Integer.scala)
 - [Majority Element](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MajorityElement.scala)
+- [Add Strings](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/AddStrings.scala)
 
 ## Medium
 
