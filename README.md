@@ -23,6 +23,7 @@
 - [Add Strings](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/AddStrings.scala)
 - [Goat Latin](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/GoatLatin.scala)
 - [Reverse Words in a String III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReverseWordsInAStringIII.scala)
+- [SingleNumber](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SingleNumber.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
