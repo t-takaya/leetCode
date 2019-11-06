@@ -24,6 +24,6 @@
 - [Goat Latin](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/GoatLatin.scala)
 
 ## Medium
-
+- [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
 
 ## Hard
