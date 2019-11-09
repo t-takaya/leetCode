@@ -25,6 +25,7 @@
 - [Reverse Words in a String III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReverseWordsInAStringIII.scala)
 - [Single Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SingleNumber.scala)
 - [Transpose Matrix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/TransposeMatrix.scala)
+- [Detect Capital](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DetectCapital.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
