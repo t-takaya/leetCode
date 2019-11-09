@@ -28,6 +28,8 @@
 - [Detect Capital](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DetectCapital.scala)
 - [Two Sum II - Input array is sorted](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/TwoSumII_InputArrayIsSorted.scala)
 - [Sum of Two Integers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfTwoIntegers.scala)
+- [Length of Last Word](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/LengthOfLastWord.scala)
+- [Reverse Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReverseInteger.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
