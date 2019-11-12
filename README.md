@@ -30,6 +30,8 @@
 - [Sum of Two Integers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfTwoIntegers.scala)
 - [Length of Last Word](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/LengthOfLastWord.scala)
 - [Reverse Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReverseInteger.scala)
+- [Palindrome Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/PalindromeNumber.scala)
+- [Longest Common Prefix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/LongestCommonPrefix.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
