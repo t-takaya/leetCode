@@ -33,5 +33,6 @@
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
+- [Add Two Numbers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/AddTwoNumbers.scala)
 
 ## Hard
