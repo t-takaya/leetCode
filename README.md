@@ -37,5 +37,7 @@
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
 - [Add Two Numbers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/AddTwoNumbers.scala)
+- [Longest Palindromic Substring](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/LongestPalindromicSubstring.scala)
+- [Find All Duplicates in an Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/FindAllDuplicatesInAnArray.scala)
 
 ## Hard
