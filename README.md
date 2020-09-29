@@ -39,5 +39,13 @@
 - [Add Two Numbers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/AddTwoNumbers.scala)
 - [Longest Palindromic Substring](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/LongestPalindromicSubstring.scala)
 - [Find All Duplicates in an Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/FindAllDuplicatesInAnArray.scala)
+- [Find the Duplicate Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/FindTheDuplicateNumber.scala)
+- [Implement Magic Dictionary](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/ImplementMagicDictionary.scala)
+- [Implement Trie PrefixTree](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/ImplementTrie_PrefixTree.scala)
+- [Map Sum Pairs](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MapSumPairs.scala)
+- [Print Words Vertically](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/PrintWordsVertically.scala)
+- [Single Number II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberII.scala)
+- [Single Number III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberIII.scala)
 
 ## Hard
+- [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
