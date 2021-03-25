@@ -49,3 +49,4 @@
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
+- [Poor Pigs](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PoorPigs.scala)
