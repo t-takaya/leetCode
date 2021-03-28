@@ -52,3 +52,4 @@
 - [Poor Pigs](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PoorPigs.scala)
 - [Minimum Falling Path Sum II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumFallingPathSumII.scala)
 - [CherryPickupII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/CherryPickupII.scala)
+- [MinimumInitialEnergyToFinishTasks](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumInitialEnergyToFinishTasks.scala)
