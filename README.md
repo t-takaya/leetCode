@@ -54,3 +54,4 @@
 - [CherryPickupII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/CherryPickupII.scala)
 - [MinimumInitialEnergyToFinishTasks](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumInitialEnergyToFinishTasks.scala)
 - [BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.scala)
+- [SpecialBinaryString](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/SpecialBinaryString.scala)
