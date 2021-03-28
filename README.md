@@ -33,9 +33,10 @@
 - [Reverse Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReverseInteger.scala)
 - [Palindrome Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/PalindromeNumber.scala)
 - [Longest Common Prefix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/LongestCommonPrefix.scala)
-- [PathSum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/PathSum.scala)
-- [CountOfMatchesInTournament](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountOfMatchesInTournament.scala)
-- [SortArrayByParityII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SortArrayByParityII.scala)
+- [Path Sum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/PathSum.scala)
+- [Count Of Matches In Tournament](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountOfMatchesInTournament.scala)
+- [Sort Array By ParityII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SortArrayByParityII.scala)
+- [Sum Of Unique Elements](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfUniqueElements.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
@@ -49,13 +50,13 @@
 - [Print Words Vertically](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/PrintWordsVertically.scala)
 - [Single Number II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberII.scala)
 - [Single Number III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberIII.scala)
-- [QueensThatCanAttackTheKing](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueensThatCanAttackTheKing.scala)
+- [Queens That Can Attack The King](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueensThatCanAttackTheKing.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
 - [Poor Pigs](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PoorPigs.scala)
 - [Minimum Falling Path Sum II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumFallingPathSumII.scala)
-- [CherryPickupII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/CherryPickupII.scala)
-- [MinimumInitialEnergyToFinishTasks](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumInitialEnergyToFinishTasks.scala)
-- [BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.scala)
-- [SpecialBinaryString](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/SpecialBinaryString.scala)
+- [Cherry Pickup II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/CherryPickupII.scala)
+- [Minimum Initial Energy To Finish Tasks](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumInitialEnergyToFinishTasks.scala)
+- [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.scala)
+- [Special Binary String](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/SpecialBinaryString.scala)
