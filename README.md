@@ -35,6 +35,7 @@
 - [Longest Common Prefix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/LongestCommonPrefix.scala)
 - [PathSum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/PathSum.scala)
 - [CountOfMatchesInTournament](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountOfMatchesInTournament.scala)
+- [SortArrayByParityII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SortArrayByParityII.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
