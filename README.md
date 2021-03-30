@@ -73,6 +73,7 @@
 - [Rank Transform Of An Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/RankTransformOfAnArray.scala)
 - [Reformat Date](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReformatDate.scala)
 - [Remove Outermost Parentheses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/RemoveOutermostParentheses.scala)
+- [Replace Elements With Greatest Element On Right Side](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReplaceElementsWithGreatestElementOnRightSide.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
