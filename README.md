@@ -38,6 +38,7 @@
 - [Sort Array By ParityII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SortArrayByParityII.scala)
 - [Sum Of Unique Elements](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfUniqueElements.scala)
 - [Array Partition I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ArrayPartitionI.scala)
+- [Average Salary Excluding The Minimum And Maximum Salary](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/AverageSalaryExcludingTheMinimumAndMaximumSalary.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
