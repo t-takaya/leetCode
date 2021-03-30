@@ -59,6 +59,7 @@
 - [Find The Highest Altitude](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FindTheHighestAltitude.scala)
 - [Goal Parser Interpretation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/GoalParserInterpretation.scala)
 - [Height Checker](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HeightChecker.scala)
+- [How Many Numbers Are Smaller Than The Current Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HowManyNumbersAreSmallerThanTheCurrentNumber.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
