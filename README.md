@@ -68,6 +68,7 @@
 - [Merge Two Binary Trees](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MergeTwoBinaryTrees.scala)
 - [Minimum Time Visiting All Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MinimumTimeVisitingAllPoints.scala)
 - [Next Greater Element I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NextGreaterElementI.scala)
+- [Number Of Rectangles That Can Form The Largest Square](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfRectanglesThatCanFormTheLargestSquare.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
