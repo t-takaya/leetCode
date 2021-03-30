@@ -81,6 +81,7 @@
 - [Shuffle String](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ShuffleString.scala)
 - [Shuffle The Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ShuffleTheArray.scala)
 - [Squares Of A Sorted Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SquaresOfASortedArray.scala)
+- [Subtract The Product And Sum Of Digits Of An Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SubtractTheProductAndSumOfDigitsOfAnInteger.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
