@@ -43,6 +43,7 @@
 - [Check If Two String Arrays Are Equivalent](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CheckIfTwoStringArraysAreEquivalent.scala)
 - [Count Good Triplets](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountGoodTriplets.scala)
 - [Count Items Matching A Rule](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountItemsMatchingARule.scala)
+- [Count Negative Numbers In A Sorted Matrix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountNegativeNumbersInASortedMatrix.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
