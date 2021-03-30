@@ -39,6 +39,7 @@
 - [Sum Of Unique Elements](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfUniqueElements.scala)
 - [Array Partition I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ArrayPartitionI.scala)
 - [Average Salary Excluding The Minimum And Maximum Salary](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/AverageSalaryExcludingTheMinimumAndMaximumSalary.scala)
+- [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
