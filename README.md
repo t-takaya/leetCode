@@ -83,6 +83,7 @@
 - [Squares Of A Sorted Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SquaresOfASortedArray.scala)
 - [Subtract The Product And Sum Of Digits Of An Integer](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SubtractTheProductAndSumOfDigitsOfAnInteger.scala)
 - [Sum Of All Odd Length Subarrays](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfAllOddLengthSubarrays.scala)
+- [Thousand Separator](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ThousandSeparator.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
