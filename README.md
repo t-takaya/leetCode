@@ -37,6 +37,7 @@
 - [Count Of Matches In Tournament](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountOfMatchesInTournament.scala)
 - [Sort Array By ParityII](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SortArrayByParityII.scala)
 - [Sum Of Unique Elements](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SumOfUniqueElements.scala)
+- [Array Partition I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ArrayPartitionI.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
