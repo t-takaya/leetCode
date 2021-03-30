@@ -71,6 +71,7 @@
 - [Number Of Rectangles That Can Form The Largest Square](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfRectanglesThatCanFormTheLargestSquare.scala)
 - [Number Of Steps To Reduce A Number To Zero](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfStepsToReduceANumberToZero.scala)
 - [Rank Transform Of An Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/RankTransformOfAnArray.scala)
+- [Reformat Date](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ReformatDate.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
