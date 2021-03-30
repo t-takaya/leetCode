@@ -62,6 +62,7 @@
 - [How Many Numbers Are Smaller Than The Current Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HowManyNumbersAreSmallerThanTheCurrentNumber.scala)
 - [Intersection Of Two Arrays](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/IntersectionOfTwoArrays.scala)
 - [Kids With The Greatest Number Of Candies](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/KidsWithTheGreatestNumberOfCandies.scala)
+- [Maximum 69 Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/Maximum69Number.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
