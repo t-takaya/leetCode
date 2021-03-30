@@ -51,6 +51,8 @@
 - [Single Number II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberII.scala)
 - [Single Number III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SingleNumberIII.scala)
 - [Queens That Can Attack The King](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueensThatCanAttackTheKing.scala)
+- [All Paths From Source To Target](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/AllPathsFromSourceToTarget.scala)
+
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
