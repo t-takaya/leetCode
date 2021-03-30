@@ -84,6 +84,7 @@
 - [Battleships In A Board](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/BattleshipsInABoard.scala)
 - [Design A Stack With Increment Operation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/DesignAStackWithIncrementOperation.scala)
 - [Minimum Flips To Make A Or B Equal To C](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumFlipsToMakeAOrBEqualToC.scala)
+- [Minimum Number Of Operations To Move All Balls To Each Box](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumNumberOfOperationsToMoveAllBallsToEachBox.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
