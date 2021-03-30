@@ -60,6 +60,7 @@
 - [Goal Parser Interpretation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/GoalParserInterpretation.scala)
 - [Height Checker](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HeightChecker.scala)
 - [How Many Numbers Are Smaller Than The Current Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/HowManyNumbersAreSmallerThanTheCurrentNumber.scala)
+- [Intersection Of Two Arrays](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/IntersectionOfTwoArrays.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
