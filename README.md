@@ -46,6 +46,7 @@
 - [Count Negative Numbers In A Sorted Matrix](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountNegativeNumbersInASortedMatrix.scala)
 - [Count The Number Of Consistent Strings](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CountTheNumberOfConsistentStrings.scala)
 - [Create Target Array In The Given Order](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CreateTargetArrayInTheGivenOrder.scala)
+- [Decompress Run Length Encoded List](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DecompressRunLengthEncodedList.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
