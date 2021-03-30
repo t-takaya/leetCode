@@ -66,6 +66,7 @@
 - [Maximum Number Of Balloons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumNumberOfBalloons.scala)
 - [Merge Strings Alternately](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MergeStringsAlternately.scala)
 - [Merge Two Binary Trees](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MergeTwoBinaryTrees.scala)
+- [Minimum Time Visiting All Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MinimumTimeVisitingAllPoints.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
