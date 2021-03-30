@@ -51,6 +51,7 @@
 - [Design Parking System](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DesignParkingSystem.scala)
 - [Distribute Candies](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DistributeCandies.scala)
 - [DI String Match](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DIStringMatch.scala)
+- [Element Appearing More Than 25% In Sorted Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ElementAppearingMoreThan25InSortedArray.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
