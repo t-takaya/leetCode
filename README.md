@@ -86,6 +86,7 @@
 - [Thousand Separator](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ThousandSeparator.scala)
 - [Water Bottles](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/WaterBottles.scala)
 - [Matrix Diagonal Sum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MatrixDiagonalSum.scala)
+- [Valid Anagram](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ValidAnagram.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
