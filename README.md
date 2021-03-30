@@ -69,6 +69,7 @@
 - [Minimum Time Visiting All Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MinimumTimeVisitingAllPoints.scala)
 - [Next Greater Element I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NextGreaterElementI.scala)
 - [Number Of Rectangles That Can Form The Largest Square](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfRectanglesThatCanFormTheLargestSquare.scala)
+- [Number Of Steps To Reduce A Number To Zero](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfStepsToReduceANumberToZero.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
