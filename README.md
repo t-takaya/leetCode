@@ -56,6 +56,7 @@
 - [Final Prices With A Special Discount In A Shop](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FinalPricesWithASpecialDiscountInAShop.scala)
 - [Find Common Characters](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FindCommonCharacters.scala)
 - [Find Numbers With Even Number Of Digits](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FindNumbersWithEvenNumberOfDigits.scala)
+- [Find The Highest Altitude](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/FindTheHighestAltitude.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
