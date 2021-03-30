@@ -65,6 +65,7 @@
 - [Maximum 69 Number](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/Maximum69Number.scala)
 - [Maximum Number Of Balloons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumNumberOfBalloons.scala)
 - [Merge Strings Alternately](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MergeStringsAlternately.scala)
+- [Merge Two Binary Trees](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MergeTwoBinaryTrees.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
