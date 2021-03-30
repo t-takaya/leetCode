@@ -83,6 +83,7 @@
 - [All Paths From Source To Target](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/AllPathsFromSourceToTarget.scala)
 - [Battleships In A Board](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/BattleshipsInABoard.scala)
 - [Design A Stack With Increment Operation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/DesignAStackWithIncrementOperation.scala)
+- [Minimum Flips To Make A Or B Equal To C](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumFlipsToMakeAOrBEqualToC.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
