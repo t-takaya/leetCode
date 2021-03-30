@@ -49,6 +49,7 @@
 - [Decompress Run Length Encoded List](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DecompressRunLengthEncodedList.scala)
 - [Decrypt String From Alphabet To Integer Mapping](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DecryptStringFromAlphabetToIntegerMapping.scala)
 - [Design Parking System](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DesignParkingSystem.scala)
+- [Distribute Candies](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/DistributeCandies.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
