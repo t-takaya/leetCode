@@ -80,6 +80,7 @@
 - [Self Dividing Numbers](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SelfDividingNumbers.scala)
 - [Shuffle String](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ShuffleString.scala)
 - [Shuffle The Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ShuffleTheArray.scala)
+- [Squares Of A Sorted Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SquaresOfASortedArray.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
