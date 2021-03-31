@@ -21,11 +21,4 @@ object QueensThatCanAttackTheKing {
       i % 2 == 0
     }.map(_._1)
   }
-
-  def main(args: Array[String]): Unit = {
-    val l = queensAttacktheKing(
-      Array(Array(0,1),Array(1,0),Array(4,0),Array(0,4),Array(3,3),Array(2,4)),
-        Array(0,0))
-    println(l);
-  }
 }

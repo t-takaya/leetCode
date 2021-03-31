@@ -27,6 +27,5 @@ object RemoveOutermostParentheses {
         }
       }
     }.mkString
-    ArrayBuffer.empty[Int]
   }
 }
