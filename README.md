@@ -121,6 +121,7 @@
 - [Lowest Common Ancestor Of DeepestLeaves](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/LowestCommonAncestorOfDeepestLeaves.scala)
 - [Minimum Number Of Steps To Make Two Strings Anagram](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumNumberOfStepsToMakeTwoStringsAnagram.scala)
 - [Minimum Add To Make Parentheses Valid](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumAddToMakeParenthesesValid.scala)
+- [Sort Characters By Frequency](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SortCharactersByFrequency.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
