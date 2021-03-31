@@ -90,6 +90,7 @@
 - [Number Of Good Pairs](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/NumberOfGoodPairs.scala)
 - [Relative Sort Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/RelativeSortArray.scala)
 - [Maximum Ascending Subarray Sum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumAscendingSubarraySum.scala)
+- [Maximum Nesting Depth Of The Parentheses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumNestingDepthOfTheParentheses.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
