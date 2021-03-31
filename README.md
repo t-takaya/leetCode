@@ -115,6 +115,7 @@
 - [Counting Bits](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountingBits.scala)
 - [Count Square Submatrices With All Ones](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountSquareSubmatricesWithAllOnes.scala)
 - [Count Substrings That Differ By One Character](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountSubstringsThatDifferByOneCharacter.scala)
+- [Find Center Of Star Graph](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/FindCenterOfStarGraph.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
