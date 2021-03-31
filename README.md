@@ -112,6 +112,7 @@
 - [Arithmetic Slices](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/ArithmeticSlices.scala)
 - [Bulb Switcher III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/BulbSwitcherIII.scala)
 - [Clumsy Factorial](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/ClumsyFactorial.scala)
+- [Counting Bits](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountingBits.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
