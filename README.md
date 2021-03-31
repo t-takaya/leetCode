@@ -107,6 +107,8 @@
 - [Minimum Flips To Make A Or B Equal To C](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumFlipsToMakeAOrBEqualToC.scala)
 - [Minimum Number Of Operations To Move All Balls To Each Box](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumNumberOfOperationsToMoveAllBallsToEachBox.scala)
 - [Queries On A Permutation With Key](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueriesOnAPermutationWithKey.scala)
+- [Permutations](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/Permutations.scala)
+- [4 Sum II](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/_4SumII.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
