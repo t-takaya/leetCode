@@ -113,6 +113,7 @@
 - [Bulb Switcher III](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/BulbSwitcherIII.scala)
 - [Clumsy Factorial](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/ClumsyFactorial.scala)
 - [Counting Bits](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountingBits.scala)
+- [Count Square Submatrices With All Ones](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountSquareSubmatricesWithAllOnes.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
