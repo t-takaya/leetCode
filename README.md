@@ -117,6 +117,7 @@
 - [Count Substrings That Differ By One Character](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/CountSubstringsThatDifferByOneCharacter.scala)
 - [Find Center Of Star Graph](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/FindCenterOfStarGraph.scala)
 - [Keys And Rooms](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/KeysAndRooms.scala)
+- [Letter Case Permutation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/LetterCasePermutation.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
