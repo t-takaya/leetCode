@@ -130,6 +130,7 @@
 - [Number Of Provinces](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/NumberOfProvinces.scala)
 - [Subsets](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/Subsets.scala)
 - [MinimumOperationsToMakeArrayEqual](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumOperationsToMakeArrayEqual.scala)
+- [MinimizeMaximumPairSumInArray](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
