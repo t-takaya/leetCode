@@ -129,9 +129,9 @@
 - [Sort Characters By Frequency](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/SortCharactersByFrequency.scala)
 - [Number Of Provinces](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/NumberOfProvinces.scala)
 - [Subsets](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/Subsets.scala)
-- [MinimumOperationsToMakeArrayEqual](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumOperationsToMakeArrayEqual.scala)
-- [MinimizeMaximumPairSumInArray](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
-- [WidestVerticalAreaBetweenTwoPointsContainingNoPoints](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.scala)
+- [Minimum Operations To Make Array Equal](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumOperationsToMakeArrayEqual.scala)
+- [Minimize Maximum Pair Sum In Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
+- [Widest Vertical Area Between Two Points Containing No Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
@@ -141,3 +141,4 @@
 - [Minimum Initial Energy To Finish Tasks](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MinimumInitialEnergyToFinishTasks.scala)
 - [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.scala)
 - [Special Binary String](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/SpecialBinaryString.scala)
+- [Median Of Two Sorted Arrays](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/MedianOfTwoSortedArrays.scala)
