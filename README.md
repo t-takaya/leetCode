@@ -131,6 +131,7 @@
 - [Subsets](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/Subsets.scala)
 - [MinimumOperationsToMakeArrayEqual](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumOperationsToMakeArrayEqual.scala)
 - [MinimizeMaximumPairSumInArray](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
+- [WidestVerticalAreaBetweenTwoPointsContainingNoPoints](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
