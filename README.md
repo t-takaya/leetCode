@@ -93,6 +93,7 @@
 - [Maximum Nesting Depth Of The Parentheses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumNestingDepthOfTheParentheses.scala)
 - [Smallest Range I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SmallestRangeI.scala)
 - [Build Array From Permutation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/BuildArrayFromPermutation.scala)
+- [Concatenation Of Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ConcatenationOfArray.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
