@@ -95,6 +95,7 @@
 - [Build Array From Permutation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/BuildArrayFromPermutation.scala)
 - [Concatenation Of Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/ConcatenationOfArray.scala)
 - [Sorting The Sentence](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SortingTheSentence.scala)
+- [Check If The Sentence Is Pangram](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/CheckIfTheSentenceIsPangram.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
