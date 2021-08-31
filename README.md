@@ -92,6 +92,7 @@
 - [Maximum Ascending Subarray Sum](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumAscendingSubarraySum.scala)
 - [Maximum Nesting Depth Of The Parentheses](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/MaximumNestingDepthOfTheParentheses.scala)
 - [Smallest Range I](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/SmallestRangeI.scala)
+- [Build Array From Permutation](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/easy/BuildArrayFromPermutation.scala)
 
 ## Medium
 - [Max Increase to Keep City Skyline](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MaxIncreaseToKeepCitySkyline.scala)
