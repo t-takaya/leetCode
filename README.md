@@ -136,6 +136,7 @@
 - [Minimum Operations To Make Array Equal](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimumOperationsToMakeArrayEqual.scala)
 - [Minimize Maximum Pair Sum In Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
 - [Widest Vertical Area Between Two Points Containing No Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.scala)
+- [Queries On Number Of Points Inside a Circle](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueriesOnNumberOfPointsInsideACircle.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
