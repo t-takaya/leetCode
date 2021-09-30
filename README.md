@@ -137,6 +137,7 @@
 - [Minimize Maximum Pair Sum In Array](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/MinimizeMaximumPairSumInArray.scala)
 - [Widest Vertical Area Between Two Points Containing No Points](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.scala)
 - [Queries On Number Of Points Inside a Circle](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/QueriesOnNumberOfPointsInsideACircle.scala)
+- [Egg Drop With 2Eggs And N Floors](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/medium/EggDropWith2EggsAndNFloors.scala)
 
 ## Hard
 - [Prefix and Suffix Search](https://github.com/t-takaya/leetCode/blob/master/src/main/scala/hard/PrefixAndSuffixSearch.scala)
